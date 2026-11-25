@@ -1,0 +1,7 @@
+video,metodo,bpm_global,bpm_media,bpm_min,bpm_max,ref_min,ref_max,erro_abs_vs_centro_ref,dentro_da_faixa
+SemMovimento,POS,75.1,75.7,69.8,83.5,65,75,5.1,False
+SemMovimento,CHROM,76.2,80.0,69.8,112.9,65,75,6.2,False
+SemMovimento,GREEN,76.0,71.5,59.3,82.6,65,75,6.0,False
+ComMovimento,POS,72.9,71.7,65.0,80.8,90,100,22.1,False
+ComMovimento,CHROM,73.3,71.6,63.7,82.1,90,100,21.7,False
+ComMovimento,GREEN,72.4,70.0,58.0,82.5,90,100,22.6,False
